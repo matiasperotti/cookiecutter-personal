@@ -1,0 +1,16 @@
+{
+    "project_title": "cookiecutter personal",
+
+    "project_slug": "{{ cookiecutter.project_title.lower().replace(' ', '_') }}",
+
+    "project_name": "",
+
+    "project_packages": ["All", "Minimal"],
+
+    "python_version": "3,7",
+
+    "author_name": "matias",
+
+    "description": "primeras pruebas"
+
+}
